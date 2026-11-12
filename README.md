@@ -83,7 +83,11 @@ We aim to help businesses minimise waste, optimise purchasing and ensure that es
 
 Developed as an entrepreneurial innovation project at Universal AI University.
 
-**Team:** OmniStock
+**Team:** OmniStock<img width="1280" height="721" alt="OS 4" src="https://github.com/user-attachments/assets/16fbcb66-3931-47bd-8019-03a05d056194" />
+<img width="1280" height="720" alt="OS 2" src="https://github.com/user-attachments/assets/00046bf9-7734-4a42-9f4a-3b3a64139436" />
+<img width="1445" height="1089" alt="os" src="https://github.com/user-attachments/assets/98f44e6e-18e9-4d7b-a607-2ba630d17c4b" />
+<img width="1280" height="720" alt="OS 3" src="https://github.com/user-attachments/assets/8ea150d4-7dce-4bf1-b0c1-9f660483794e" />
+
 
 ## 🏁 Project Status
 

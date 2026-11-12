@@ -1,0 +1,43 @@
+[
+  {
+    "id": "scan-1791105374326-aac7",
+    "sku": "OO-EV-100",
+    "barcode": "OO-EV-100",
+    "itemName": "Extra Virgin Olive Oil",
+    "unit": "bottles (750ml)",
+    "addedQty": 15,
+    "newStock": 100,
+    "previousStock": 85,
+    "location": "Zone P-03",
+    "device": "Senior Engineer Phone",
+    "sessionId": "SES-VERIFY-1",
+    "timestamp": 1791105374326
+  },
+  {
+    "id": "scan-1791104863024-76ip",
+    "sku": "RIC-BAS-500",
+    "barcode": "RIC-BAS-500",
+    "itemName": "Royal Basmati Rice (Premium)",
+    "unit": "kg",
+    "addedQty": 10,
+    "newStock": 435,
+    "previousStock": 425,
+    "location": "Zone D-01",
+    "device": "iPhone 15 Pro",
+    "sessionId": "TEST-QR-1",
+    "timestamp": 1791104863024
+  },
+  {
+    "id": "scan-1790868170088-fzkk",
+    "sku": "SKU-001",
+    "barcode": "SKU-001",
+    "itemName": "Scanned Item (SKU-001)",
+    "unit": "boxes",
+    "addedQty": 5,
+    "newStock": 5,
+    "previousStock": 0,
+    "location": "Zone A-01",
+    "device": "Test Mobile Camera",
+    "timestamp": 1790868170088
+  }
+]

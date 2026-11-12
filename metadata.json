@@ -1,0 +1,6 @@
+{
+  "name": "OmniStock",
+  "description": "Enterprise-grade smart inventory management system featuring real-time tracking, automated AI reordering recommendations, interactive barcode scanning, and operational analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
